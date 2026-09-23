@@ -102,38 +102,43 @@ Algunas de las áreas en las que he trabajado incluyen:
 
 ---
 
-## Proyecto de Titulación
+## Proyecto Destacado
 
-Durante mi proyecto de titulación trabajé en una plataforma tecnológica orientada a la gestión digital de procesos relacionados con seguros.
+### Trazabilidad y Arquitectura para Plataforma Digital de Seguros
 
-Mi trabajo estuvo principalmente enfocado en dos áreas:
+**Proyecto de Titulación · Ingeniería Informática**
 
-### Trazabilidad
+Durante mi proyecto de titulación trabajé en una plataforma tecnológica orientada a digitalizar el proceso de contratación de seguros.
 
-Implementación de mecanismos para registrar y reconstruir las diferentes etapas realizadas dentro de la plataforma.
+La plataforma estaba compuesta por distintas aplicaciones y servicios que participaban en etapas como la simulación de un seguro, la generación de una cotización, la contratación, el pago y finalmente la emisión de documentación asociada.
 
-Esto incluyó:
+Uno de los principales desafíos era que esta información se encontraba distribuida entre distintos procesos y sistemas, lo que dificultaba reconstruir de forma clara qué había ocurrido durante una operación específica.
 
-- Registro de eventos y operaciones.
-- Seguimiento de procesos.
-- Estructuración de información.
-- Generación de evidencia auditable.
-- Integración entre aplicaciones y servicios.
+Mi trabajo se concentró principalmente en dos áreas: **trazabilidad de procesos** y **mejora de la arquitectura del ecosistema de aplicaciones**.
 
-### Arquitectura
+---
 
-Participé en la reorganización de diferentes aplicaciones dentro de una arquitectura común.
+### Trazabilidad de procesos
 
-Se trabajó con:
+El primer desafío consistía en poder reconstruir de forma ordenada el recorrido realizado por un usuario durante el proceso de contratación.
+
+Antes de la implementación, la información necesaria para analizar una operación podía encontrarse distribuida entre diferentes aplicaciones, registros y servicios. Esto hacía más complejo investigar incidencias, comprobar qué acciones se habían ejecutado o reunir evidencia de una operación.
+
+Para resolver este problema trabajé en la implementación de un sistema de trazabilidad que permitiera registrar los principales eventos generados durante cada etapa del proceso.
+
+El flujo podía seguir una estructura similar a:
 
 ```text
-Turborepo
-npm Workspaces
-React
-TypeScript
-Node.js
-PostgreSQL
-Supabase
-Clerk
-Git
-GitHub
+Sesión
+   ↓
+Simulación
+   ↓
+Cotización
+   ↓
+Contratación
+   ↓
+Orden de pago
+   ↓
+Pago
+   ↓
+Emisión de certificado
