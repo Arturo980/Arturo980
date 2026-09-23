@@ -38,36 +38,44 @@ Actualmente estoy enfocado en continuar fortaleciendo mis conocimientos en:
 
 ### Lenguajes
 
-![JavaScript](https://img.shields.io/badge/JavaScript-20232A?style=for-the-badge)
-![TypeScript](https://img.shields.io/badge/TypeScript-20232A?style=for-the-badge)
-![Python](https://img.shields.io/badge/Python-20232A?style=for-the-badge)
-![SQL](https://img.shields.io/badge/SQL-20232A?style=for-the-badge)
+![JavaScript](https://img.shields.io/badge/JavaScript-111827?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
+![TypeScript](https://img.shields.io/badge/TypeScript-111827?style=for-the-badge&logo=typescript&logoColor=3178C6)
+![Python](https://img.shields.io/badge/Python-111827?style=for-the-badge&logo=python&logoColor=3776AB)
+![SQL](https://img.shields.io/badge/SQL-111827?style=for-the-badge&logo=postgresql&logoColor=336791)
+
+<br><br>
 
 ### Frontend
 
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge)
-![HTML5](https://img.shields.io/badge/HTML5-20232A?style=for-the-badge)
-![CSS3](https://img.shields.io/badge/CSS3-20232A?style=for-the-badge)
+![React](https://img.shields.io/badge/React-111827?style=for-the-badge&logo=react&logoColor=61DAFB)
+![HTML5](https://img.shields.io/badge/HTML5-111827?style=for-the-badge&logo=html5&logoColor=E34F26)
+![CSS3](https://img.shields.io/badge/CSS3-111827?style=for-the-badge&logo=css3&logoColor=1572B6)
+
+<br><br>
 
 ### Backend
 
-![Node.js](https://img.shields.io/badge/Node.js-20232A?style=for-the-badge)
-![REST APIs](https://img.shields.io/badge/REST_APIs-20232A?style=for-the-badge)
+![Node.js](https://img.shields.io/badge/Node.js-111827?style=for-the-badge&logo=node.js&logoColor=339933)
+![REST APIs](https://img.shields.io/badge/REST_APIs-111827?style=for-the-badge&logo=swagger&logoColor=85EA2D)
+
+<br><br>
 
 ### Bases de Datos
 
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-20232A?style=for-the-badge)
-![Supabase](https://img.shields.io/badge/Supabase-20232A?style=for-the-badge)
-![MongoDB](https://img.shields.io/badge/MongoDB-20232A?style=for-the-badge)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-111827?style=for-the-badge&logo=postgresql&logoColor=336791)
+![Supabase](https://img.shields.io/badge/Supabase-111827?style=for-the-badge&logo=supabase&logoColor=3ECF8E)
+![MongoDB](https://img.shields.io/badge/MongoDB-111827?style=for-the-badge&logo=mongodb&logoColor=47A248)
+
+<br><br>
 
 ### Arquitectura y Herramientas
 
-![Git](https://img.shields.io/badge/Git-20232A?style=for-the-badge)
-![GitHub](https://img.shields.io/badge/GitHub-20232A?style=for-the-badge)
-![Turborepo](https://img.shields.io/badge/Turborepo-20232A?style=for-the-badge)
-![npm Workspaces](https://img.shields.io/badge/npm_Workspaces-20232A?style=for-the-badge)
-![Clerk](https://img.shields.io/badge/Clerk-20232A?style=for-the-badge)
-![RLS](https://img.shields.io/badge/Row_Level_Security-20232A?style=for-the-badge)
+![Git](https://img.shields.io/badge/Git-111827?style=for-the-badge&logo=git&logoColor=F05032)
+![GitHub](https://img.shields.io/badge/GitHub-111827?style=for-the-badge&logo=github&logoColor=FFFFFF)
+![Turborepo](https://img.shields.io/badge/Turborepo-111827?style=for-the-badge&logo=turborepo&logoColor=FFFFFF)
+![npm Workspaces](https://img.shields.io/badge/npm_Workspaces-111827?style=for-the-badge&logo=npm&logoColor=CB3837)
+![Clerk](https://img.shields.io/badge/Clerk-111827?style=for-the-badge&logo=clerk&logoColor=6C47FF)
+![Row Level Security](https://img.shields.io/badge/Row_Level_Security-111827?style=for-the-badge&logo=supabase&logoColor=3ECF8E)
 
 </div>
 
